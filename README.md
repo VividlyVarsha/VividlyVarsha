@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VividlyVarsha
 - 👀 I’m interested in Network engineering and Coding
-- 🌱 I’m currently learning BE computer Engineering 
+- 🌱 I’m currently learning BE computer Engineering  @Apollo Engineering College
 - 💞️ I’m looking to collaborate on Network modules,CCNA ,
 - 📫 How to reach me vividlyvarsha@gmail.com
 
