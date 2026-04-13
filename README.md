@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @VividlyVarsha
-- 👀 I’m interested in Network engineering and Coding
-- 🌱 I’m currently learning BE computer Engineering  @Apollo Engineering College
-- 💞️ I’m looking to collaborate on Network modules,CCNA ,
+- 👀 I’m interested in Data Analytics ,machine learning and Coding
+- 🌱 I’m currently graduating  BE computer Engineering  @Apollo Engineering College
+- 💞️ I’m looking to collaborate on GIS , DATA ANALYTICS, DATA SCIENCE AND MACHINE LEARNING BASED PROJECTS
 - 📫 How to reach me vividlyvarsha@gmail.com
 
-<!---
-VividlyVarsha/VividlyVarsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
